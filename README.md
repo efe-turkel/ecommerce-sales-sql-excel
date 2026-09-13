@@ -5,7 +5,7 @@ Bu proje; ilişkisel veritabanı mimarisi kurarak ham e-ticaret satış verileri
 ---
 
 ## 📊 Dashboard Önizleme
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png.png)
 
 ---
 
